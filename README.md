@@ -1,3 +1,3 @@
 # CriptoBot
-### Inicie uma conversa com o bot via Telegram para usufruir de suas funcionalidades! @TheCriptoBot
-Bot utilizado para monitorar o preço de criptomoedas.
+### Start a conversation with the bot via Telegram to enjoy its features! @TheCryptoBot
+Bot used to monitor the price of cryptocurrencies.
